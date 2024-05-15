@@ -1,3 +1,5 @@
+origin: https://github.com/Exafunction/CodeiumVisualStudio
+
 <p align="center">
   <img width="300" alt="Codeium" src="codeium.svg"/>
 </p>
